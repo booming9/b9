@@ -20,17 +20,16 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
         <title>{EnvVars.SITE_NAME}</title>
         <meta
           name="description"
-          content="Tempor nostrud velit fugiat nostrud duis incididunt Lorem deserunt est tempor aute dolor ad elit."
+          content="Booming 9."
         />
       </Head>
       <HomepageWrapper>
         <WhiteBackgroundContainer>
           <Hero />
           <Partners />
-          <BasicSection imageUrl="/demo-illustration-1.svg" title="Lorem ipsum dolor sit amet consectetur." overTitle="sit amet gogo">
+          <BasicSection imageUrl="https://media.canva.com/1/image-resize/1/198_199_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9mV3VJUS9NQUZ6c3lmV3VJUS8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAPAfeS45rYK4EOVLvJeNT2FQk6MKzy2tvmOYH1jhcHK1&exp=1701725051&x-canva-quality=thumbnail&csig=AAAAAAAAAAAAAAAAAAAAAC-KMbekohwR5zQPiThQvk2sDY95h4AKaTlm3fFNKNRt" title="Lorem ipsum dolor sit amet consectetur." overTitle="sit amet gogo">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore
-              voluptate quo deleniti animi laboriosam.{' '}
+              B9.{' '}
               <Link href="/help-center">Possimus ullam velit rem itaque consectetur, in distinctio?</Link> Lorem ipsum, dolor sit amet
               consectetur adipisicing elit. Soluta repellendus quia quos obcaecati nihil. Laudantium non accusantium, voluptate eum nesciunt
               at suscipit quis est soluta?
